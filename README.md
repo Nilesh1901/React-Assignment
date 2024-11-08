@@ -1,7 +1,3 @@
-Here's a structured and detailed `README.md` template for your project:
-
----
-
 # React Assignment Project
 
 ## Overview
